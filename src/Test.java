@@ -5,7 +5,7 @@ import com.tms.terminal.BankTerminalAsia;
 public class Test {
 
     public static void main(String[] args) {
-        System.out.println("Start");
+        System.out.println("Start start");
 
         ChinaBankClient myCBClient = new ChinaBankClient();
         myCBClient.clientName = "Andrew";
